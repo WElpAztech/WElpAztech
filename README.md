@@ -1,6 +1,6 @@
-### Hello there 👋
+# Hello there 👋
 
-# about me
+## about me
 
 Unity beginner with prior experience in Roblox Studio, Focussed in C# and backend development while also experimenting with frontend. Pretty excited about pursuing a career in Game dev at 16.
 
@@ -11,9 +11,3 @@ Unity beginner with prior experience in Roblox Studio, Focussed in C# and backen
 - PHP
 - C
 - Frontend (HTML)
-
-## Credits
-
-- Chatgpt
-- Github Copilot
-
