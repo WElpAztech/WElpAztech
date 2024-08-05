@@ -36,3 +36,4 @@
 
 ### Projects I Have Worked On
 
+<img src="https://github.com/user-attachments/assets/da07a880-c326-453e-8416-2b596e4681a7" width="65%" />
